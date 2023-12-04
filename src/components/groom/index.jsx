@@ -9,7 +9,7 @@ const Groom = () => {
   return (
     <section
       data-scroll-index="3"
-      className="py-10 md:py-20 scroll-mt-2"
+      className="py-10 md:py-20 scroll-mt-20"
       id="groom"
     >
       <div className="container mx-auto">
