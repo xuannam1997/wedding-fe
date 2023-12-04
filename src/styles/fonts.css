@@ -1,0 +1,17 @@
+/* Raleway Regular */
+@font-face {
+  font-family: 'RaleWay';
+  src: url('/fonts/raleway/Raleway-Regular.ttf') format('truetype');
+}
+
+/* Sacramento Regular */
+@font-face {
+  font-family: 'Sacramento';
+  src: url('/fonts/sacramento/Sacramento-Regular.ttf') format('truetype');
+}
+
+/* Hello-Honey Regular */
+@font-face {
+  font-family: 'Hello-Honey';
+  src: url('/fonts/hello-honey/Hello-Honey.otf') format('truetype');
+}
