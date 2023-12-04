@@ -42,14 +42,14 @@ const HappyWedding = () => {
               <h3 className="text-lg md:text-xl font-bold uppercase">
                 Nguyễn Thị Minh Thành
               </h3>
-              <p className="text-xl">0148 5084 202</p>
+              <p className="text-xl">103875276366</p>
               <p className="opacity-80">Cô dâu</p>
             </div>
           </div>
           <div className="px-16 lg:px-28 py-20 lg:py-40 bg-[#7C36BB] text-white flex flex-col justify-center">
             <div>
               <Image
-                src="/images/image_24.webp"
+                src="/images/tpbank_logo.webp"
                 alt=""
                 className="h-[35px] w-auto grayscale opacity-50"
                 width={200}

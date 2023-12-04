@@ -153,7 +153,7 @@ const AlbumImage = () => {
             <div className="columns-1 md:columns-2 lg:columns-3 gap-6 hidden md:block">
               <div className="mt-0">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_1.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg"
                   width={500}
@@ -175,7 +175,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_2.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg"
                   width={500}
@@ -197,7 +197,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_3.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg"
                   width={500}
@@ -219,7 +219,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_4.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg"
                   width={500}
@@ -241,7 +241,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_5.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg"
                   width={500}
@@ -263,7 +263,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_6.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg"
                   width={500}
@@ -285,7 +285,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_7.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg"
                   width={500}
@@ -307,29 +307,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
-                  alt=""
-                  className="h-auto w-full rounded-lg"
-                  width={500}
-                  height={500}
-                  loading="lazy"
-                />
-                {/* <img
-                alt=""
-                loading="lazy"
-                width={500}
-                height={500}
-                decoding="async"
-                data-nimg={1}
-                className="h-auto w-full rounded-lg"
-                style={{ color: "transparent" }}
-                srcSet="/_next/image?url=%2Fimages%2Falbum%2F12.jpg&w=640&q=75 1x, /_next/image?url=%2Fimages%2Falbum%2F12.jpg&w=1080&q=75 2x"
-                src="/_next/image?url=%2Fimages%2Falbum%2F12.jpg&w=1080&q=75"
-              /> */}
-              </div>
-              <div className="mt-6">
-                <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_9.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg"
                   width={500}
@@ -351,7 +329,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_10.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg"
                   width={500}
@@ -373,7 +351,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_11.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg"
                   width={500}
@@ -395,7 +373,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_12.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg"
                   width={500}
@@ -417,29 +395,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
-                  alt=""
-                  className="h-auto w-full rounded-lg"
-                  width={500}
-                  height={500}
-                  loading="lazy"
-                />
-                {/* <img
-                alt=""
-                loading="lazy"
-                width={500}
-                height={500}
-                decoding="async"
-                data-nimg={1}
-                className="h-auto w-full rounded-lg"
-                style={{ color: "transparent" }}
-                srcSet="/_next/image?url=%2Fimages%2Falbum%2F7.jpg&w=640&q=75 1x, /_next/image?url=%2Fimages%2Falbum%2F7.jpg&w=1080&q=75 2x"
-                src="/_next/image?url=%2Fimages%2Falbum%2F7.jpg&w=1080&q=75"
-              /> */}
-              </div>
-              <div className="mt-6">
-                <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_14.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg"
                   width={500}
@@ -459,56 +415,12 @@ const AlbumImage = () => {
                 src="/_next/image?url=%2Fimages%2Falbum%2F22.jpg&w=1080&q=75"
               /> */}
               </div>
-              <div className="mt-6">
-                <Image
-                  src="/images/image_11.webp"
-                  alt=""
-                  className="h-auto w-full rounded-lg"
-                  width={500}
-                  height={500}
-                  loading="lazy"
-                />
-                {/* <img
-                alt=""
-                loading="lazy"
-                width={500}
-                height={500}
-                decoding="async"
-                data-nimg={1}
-                className="h-auto w-full rounded-lg"
-                style={{ color: "transparent" }}
-                srcSet="/_next/image?url=%2Fimages%2Falbum%2F5.jpg&w=640&q=75 1x, /_next/image?url=%2Fimages%2Falbum%2F5.jpg&w=1080&q=75 2x"
-                src="/_next/image?url=%2Fimages%2Falbum%2F5.jpg&w=1080&q=75"
-              /> */}
-              </div>
-              <div className="mt-6">
-                <Image
-                  src="/images/image_11.webp"
-                  alt=""
-                  className="h-auto w-full rounded-lg"
-                  width={500}
-                  height={500}
-                  loading="lazy"
-                />
-                {/* <img
-                alt=""
-                loading="lazy"
-                width={500}
-                height={500}
-                decoding="async"
-                data-nimg={1}
-                className="h-auto w-full rounded-lg"
-                style={{ color: "transparent" }}
-                srcSet="/_next/image?url=%2Fimages%2Falbum%2F10.jpg&w=640&q=75 1x, /_next/image?url=%2Fimages%2Falbum%2F10.jpg&w=1080&q=75 2x"
-                src="/_next/image?url=%2Fimages%2Falbum%2F10.jpg&w=1080&q=75"
-              /> */}
-              </div>
             </div>
             <div className="w-full relative md:hidden sm:block min-h-[400px]">
               <div className="stack">
                 <div className="card">
                   <Image
-                    src="/images/image_11.webp"
+                    src="/images/image_1.jpg"
                     alt=""
                     className="h-auto w-full rounded-lg"
                     width={500}
@@ -530,7 +442,7 @@ const AlbumImage = () => {
                 </div>
                 <div className="card">
                   <Image
-                    src="/images/image_11.webp"
+                    src="/images/image_2.jpg"
                     alt=""
                     className="h-auto w-full rounded-lg"
                     width={500}
@@ -552,7 +464,7 @@ const AlbumImage = () => {
                 </div>
                 <div className="card">
                   <Image
-                    src="/images/image_11.webp"
+                    src="/images/image_3.jpg"
                     alt=""
                     className="h-auto w-full rounded-lg"
                     width={500}
@@ -582,7 +494,7 @@ const AlbumImage = () => {
                     Xem album
                   </span>
                   <Image
-                    src="/images/image_11.webp"
+                    src="/images/image_4.jpg"
                     alt=""
                     className="object-cover object-center pointer-events-none z-1 rounded-full shadow-inner"
                     fill
@@ -635,7 +547,7 @@ const AlbumImage = () => {
             <div className="columns-1 gap-6 p-6">
               <div className="mt-0">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_5.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg text-transparent"
                   width={500}
@@ -657,7 +569,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_6.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg text-transparent"
                   width={500}
@@ -679,7 +591,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_7.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg text-transparent"
                   width={500}
@@ -701,7 +613,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_8.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg text-transparent"
                   width={500}
@@ -723,7 +635,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_9.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg text-transparent"
                   width={500}
@@ -745,7 +657,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_10.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg text-transparent"
                   width={500}
@@ -767,7 +679,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_11.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg text-transparent"
                   width={500}
@@ -789,7 +701,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_12.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg text-transparent"
                   width={500}
@@ -811,7 +723,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_13.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg text-transparent"
                   width={500}
@@ -833,7 +745,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_11.webp"
+                  src="/images/image_14.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg text-transparent"
                   width={500}
@@ -851,28 +763,6 @@ const AlbumImage = () => {
                   style={{ color: "transparent" }}
                   srcSet="/_next/image?url=%2Fimages%2Falbum%2F16.jpg&w=640&q=75 1x, /_next/image?url=%2Fimages%2Falbum%2F16.jpg&w=1080&q=75 2x"
                   src="/_next/image?url=%2Fimages%2Falbum%2F16.jpg&w=1080&q=75"
-                /> */}
-              </div>
-              <div className="mt-6">
-                <Image
-                  src="/images/image_11.webp"
-                  alt=""
-                  className="h-auto w-full rounded-lg text-transparent"
-                  width={500}
-                  height={500}
-                  loading="lazy"
-                />
-                {/* <img
-                  alt=""
-                  loading="lazy"
-                  width={500}
-                  height={500}
-                  decoding="async"
-                  data-nimg={1}
-                  className="h-auto w-full rounded-lg"
-                  style={{ color: "transparent" }}
-                  srcSet="/_next/image?url=%2Fimages%2Falbum%2F3.jpg&w=640&q=75 1x, /_next/image?url=%2Fimages%2Falbum%2F3.jpg&w=1080&q=75 2x"
-                  src="/_next/image?url=%2Fimages%2Falbum%2F3.jpg&w=1080&q=75"
                 /> */}
               </div>
             </div>
