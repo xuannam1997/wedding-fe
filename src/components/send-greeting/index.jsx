@@ -62,11 +62,11 @@ const SendGreetings = () => {
     });
   };
 
-  useEffect(() => {
-    const timer = setInterval(getAllGreetings, 1000);
+  // useEffect(() => {
+  //   const timer = setInterval(getAllGreetings, 1000);
 
-    return () => clearInterval(timer);
-  }, []);
+  //   return () => clearInterval(timer);
+  // }, []);
 
   useEffect(() => {
     getAllGreetings();
