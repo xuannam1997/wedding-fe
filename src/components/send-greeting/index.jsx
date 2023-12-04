@@ -95,7 +95,7 @@ const SendGreetings = () => {
                     <Image
                       src="/images/avatar.jpg"
                       alt=""
-                      className="bg-[#e216dc] min-w-[40px] min-h-[40px] rounded-full"
+                      className="min-w-[40px] min-h-[40px] rounded-full"
                       width={40}
                       height={40}
                       loading="lazy"
