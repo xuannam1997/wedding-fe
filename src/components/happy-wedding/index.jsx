@@ -42,7 +42,7 @@ const HappyWedding = () => {
               <h3 className="text-lg md:text-xl font-bold uppercase">
                 Nguyễn Thị Minh Thành
               </h3>
-              <p className="text-xl">103875276366</p>
+              <p className="text-xl">1038 7527 6366</p>
               <p className="opacity-80">Cô dâu</p>
             </div>
           </div>
