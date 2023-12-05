@@ -17,8 +17,16 @@ const HappyWedding = () => {
               Mừng cưới cho gia đình nhỏ
             </p>
           </div>
-          <div className="px-14 lg:px-20 py-16 lg:py-25 bg-[#BD2626] text-white flex flex-col justify-center">
-            <div>
+          <div className=" flex flex-col justify-center lg:p-0 p-4">
+            <Image
+              src="/images/nam_qr.jpg"
+              alt=""
+              className="h-full w-full rounded-xl"
+              width={250}
+              height={250}
+              loading="lazy"
+            />
+            {/* <div>
               <Image
                 src="/images/vietinbank-logo.webp"
                 alt=""
@@ -46,10 +54,18 @@ const HappyWedding = () => {
               </h3>
               <p className="text-xl">1038 7527 6366</p>
               <p className="opacity-80">Cô dâu</p>
-            </div>
+            </div> */}
           </div>
-          <div className="px-14 lg:px-20 py-16 lg:py-25 bg-[#7C36BB] text-white flex flex-col justify-center">
-            <div>
+          <div className="lg:ml-5  flex flex-col justify-center lg:p-0 p-4">
+            <Image
+              src="/images/nam_qr.jpg"
+              alt=""
+              className="h-full w-full rounded-xl"
+              width={250}
+              height={250}
+              loading="lazy"
+            />
+            {/* <div>
               <Image
                 src="/images/tpbank_logo.webp"
                 alt=""
@@ -77,7 +93,7 @@ const HappyWedding = () => {
               </h3>
               <p className="text-xl">0274 5836 401</p>
               <p className="opacity-80">Chú rể</p>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
