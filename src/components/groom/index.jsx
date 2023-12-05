@@ -146,12 +146,12 @@ const Groom = () => {
           <Image
             src="/images/bg-4.jpg"
             alt=""
-            className="object-cover object-center pointer-events-none z-1 rounded-lg"
+            className="object-cover object-center pointer-events-none z-1 rounded-lg opacity-90"
             fill
             loading="lazy"
             sizes="100vw"
           />
-          <div className="hero-overlay bg-black/10 z-10" />
+          <div className="hero-overlay bg-black z-10" />
           <div className="flex flex-col-reverse lg:flex-row gap-5 md:gap-20 items-stretch md:items-center p-5 py-10 md:p-20 md:py-24 z-20">
             <div className="p-10 rounded-lg backdrop-blur-lg bg-white/40 mt-5 md:mt-0">
               <div className="grid w-full max-w-[350px] md:max-w-[350px]">
@@ -289,7 +289,7 @@ const Groom = () => {
               </h3>
               <div className="mt-7 text-xl leading-9">
                 <p>Được tổ chức vào lúc 10 giờ 45 phút</p>
-                <p>Chủ nhật ngày 17 / 12 / 2023</p>
+                <p>Thứ 7 ngày 17 / 12 / 2023</p>
                 <p>
                   Địa chỉ: Số 8, Ngõ 2, Ngách 1, Đường Cời Lác, Xóm Cời,
                   <br className="md:block hidden" /> Trung Oai, Tiên Dương, Đông
@@ -333,12 +333,12 @@ const Groom = () => {
                   <Image
                     src="/images/nam_map.png"
                     alt=""
-                    className="object-cover object-center pointer-events-none z-10 rounded-lg"
+                    className="object-cover object-center pointer-events-none z-10 rounded-lg opacity-90"
                     fill
                     loading="lazy"
                     sizes="100vw"
                   />
-                  <div className="hero-overlay bg-black/10 rounded-lg z-10"></div>
+                  <div className="hero-overlay bg-black rounded-lg z-10"></div>
                   <div className="flex gap-4 justify-between w-full p-5 z-50">
                     <span className="text-lg">Chỉ đường</span>
                     <svg

@@ -10,12 +10,14 @@ const HappyWedding = () => {
       <div className="container m-auto">
         <div className="grid grid-cols-1 lg:grid-cols-3">
           <div className="flex flex-col gap-2 justify-center py-5 md:py-14 mx-5 sm:mx-0">
-            <h2 className="text-2xl md:text-4xl uppercase tracking-widest">
+            <h2 className="text-2xl md:text-4xl uppercase tracking-widest lg:text-left text-center">
               Mừng cưới
             </h2>
-            <p className="md:text-lg">Nhớ ghi tên nhé!</p>
+            <p className="md:text-lg lg:text-left text-center">
+              Mừng cưới cho gia đình nhỏ
+            </p>
           </div>
-          <div className="px-16 lg:px-28 py-20 lg:py-40 bg-[#BD2626] text-white flex flex-col justify-center">
+          <div className="px-14 lg:px-20 py-16 lg:py-25 bg-[#BD2626] text-white flex flex-col justify-center">
             <div>
               <Image
                 src="/images/vietinbank-logo.webp"
@@ -46,7 +48,7 @@ const HappyWedding = () => {
               <p className="opacity-80">Cô dâu</p>
             </div>
           </div>
-          <div className="px-16 lg:px-28 py-20 lg:py-40 bg-[#7C36BB] text-white flex flex-col justify-center">
+          <div className="px-14 lg:px-20 py-16 lg:py-25 bg-[#7C36BB] text-white flex flex-col justify-center">
             <div>
               <Image
                 src="/images/tpbank_logo.webp"
