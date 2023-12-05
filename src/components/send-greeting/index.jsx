@@ -81,7 +81,7 @@ const SendGreetings = () => {
       id="message"
     >
       <div className="container m-auto flex flex-col-reverse lg:grid lg:grid-cols-[1fr_1fr] gap-10 items-center">
-        <div className="xl:h-[544px] h-[572px]">
+        <div className="xl:h-[544px] h-[572px] w-full">
           <div className="p-5 md:px-10 md:py-12 backdrop-blur-lg bg-white/30 md:border border-[#F3ECE9] md:rounded h-full overflow-auto">
             <div className="flex flex-col justify-center items-center gap-3 px-5 mb-10">
               <h2 className="text-2xl md:text-3xl uppercase tracking-widest text-center leading-10">
@@ -112,7 +112,7 @@ const SendGreetings = () => {
             })}
           </div>
         </div>
-        <div className="xl:h-[544px] h-[572px]">
+        <div className="xl:h-[544px] h-[572px] w-full">
           <div className="p-5 md:px-10 md:py-12 backdrop-blur-lg bg-white/30 md:border border-[#F3ECE9] md:rounded h-full">
             <div className="flex flex-col justify-center items-center gap-3 px-5 mb-10">
               <h2 className="text-2xl md:text-3xl uppercase tracking-widest text-center leading-10">

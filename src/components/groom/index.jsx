@@ -144,7 +144,7 @@ const Groom = () => {
       <div className="mt-10 text-white">
         <div className="container hero relative m-auto">
           <Image
-            src="/images/bg-4.webp"
+            src="/images/bg-4.jpg"
             alt=""
             className="object-cover object-center pointer-events-none z-1 rounded-lg"
             fill
@@ -153,94 +153,6 @@ const Groom = () => {
           />
           <div className="hero-overlay bg-black/10 z-10" />
           <div className="flex flex-col-reverse lg:flex-row gap-5 md:gap-20 items-stretch md:items-center p-5 py-10 md:p-20 md:py-24 z-20">
-            <div>
-              <h3 className="text-2xl md:text-[32px] uppercase tracking-wider font-semibold">
-                Tiệc cưới tại gia đình&nbsp;
-                <br className="md:hidden" />
-                nhà trai
-              </h3>
-              <div className="mt-7 text-xl leading-9">
-                <p>Được tổ chức vào lúc 10 giờ 45 phút</p>
-                <p>Chủ nhật ngày 17 / 12 / 2023</p>
-                <p>
-                  Địa chỉ: Số 8, Ngõ 2, Ngách 1, Đường Cời Lác, Xóm Cời,
-                  <br className="md:block hidden" /> Trung Oai, Tiên Dương, Đông
-                  Anh, Hà Nội
-                </p>
-              </div>
-              <div className="grid grid-cols-1 md:grid-cols-[1fr_1fr] gap-5 mt-7">
-                <div className="rounded-lg backdrop-blur-sm bg-white/30 p-5 flex items-center">
-                  <div className="grid grid-flow-col gap-5 text-center w-full">
-                    <div className="flex flex-col justify-center items-center">
-                      <span className="font-mono text-3xl">
-                        <span>{days}</span>
-                      </span>
-                      ngày
-                    </div>
-                    <div className="flex flex-col justify-center items-center">
-                      <span className="font-mono text-3xl">
-                        <span>{hours}</span>
-                      </span>
-                      giờ
-                    </div>
-                    <div className="flex flex-col justify-center items-center">
-                      <span className="font-mono text-3xl">
-                        <span>{minutes}</span>
-                      </span>
-                      phút
-                    </div>
-                    <div className="flex flex-col justify-center items-center">
-                      <span className=" font-mono text-3xl">
-                        <span>{seconds}</span>
-                      </span>
-                      giây
-                    </div>
-                  </div>
-                </div>
-                <a
-                  className="hero relative rounded-lg min-h-[100px] w-full md:max-w-[200px] cursor-pointer text-white"
-                  target="_blank"
-                  href="https://maps.app.goo.gl/tyHsdoWQuxgtWw2K8"
-                >
-                  <Image
-                    src="/images/nam_map.png"
-                    alt=""
-                    className="object-cover object-center pointer-events-none z-10 rounded-lg"
-                    fill
-                    loading="lazy"
-                    sizes="100vw"
-                  />
-                  <div className="hero-overlay bg-black/10 rounded-lg z-10"></div>
-                  <div className="flex gap-4 justify-between w-full p-5 z-50">
-                    <span className="text-lg">Chỉ đường</span>
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      version="1.1"
-                      x={0}
-                      y={0}
-                      viewBox="0 0 448.011 448.011"
-                      width={25}
-                    >
-                      <g>
-                        <path
-                          d="m438.731 209.463-416-192c-6.624-3.008-14.528-1.216-19.136 4.48a15.911 15.911 0 0 0-.384 19.648l136.8 182.4-136.8 182.4c-4.416 5.856-4.256 13.984.352 19.648 3.104 3.872 7.744 5.952 12.448 5.952 2.272 0 4.544-.48 6.688-1.472l416-192c5.696-2.624 9.312-8.288 9.312-14.528s-3.616-11.904-9.28-14.528z"
-                          fill="currentColor"
-                        />
-                      </g>
-                    </svg>
-                  </div>
-                </a>
-                <div className="mt-1">
-                  <a
-                    className="btn glass text-white hover:text-zinc-700"
-                    target="_blank"
-                    href="https://docs.google.com/spreadsheets/d/1gKVJkGgfTTp9__aSSSpPfKoMBq1LSOgWYgHpyztilXc/edit#gid=0"
-                  >
-                    Đăng ký đi xe về nhà trai
-                  </a>
-                </div>
-              </div>
-            </div>
             <div className="p-10 rounded-lg backdrop-blur-lg bg-white/40 mt-5 md:mt-0">
               <div className="grid w-full max-w-[350px] md:max-w-[350px]">
                 <div className="grid grid-cols-7 gap-1 justify-items-center">
@@ -366,6 +278,94 @@ const Groom = () => {
                   </div>
                   <div className="w-10 h-10 flex items-center justify-center"></div>
                   <div className="w-10 h-10 flex items-center justify-center"></div>
+                </div>
+              </div>
+            </div>
+            <div>
+              <h3 className="text-2xl md:text-[32px] uppercase tracking-wider font-semibold">
+                Tiệc cưới tại gia đình&nbsp;
+                <br className="md:hidden" />
+                nhà trai
+              </h3>
+              <div className="mt-7 text-xl leading-9">
+                <p>Được tổ chức vào lúc 10 giờ 45 phút</p>
+                <p>Chủ nhật ngày 17 / 12 / 2023</p>
+                <p>
+                  Địa chỉ: Số 8, Ngõ 2, Ngách 1, Đường Cời Lác, Xóm Cời,
+                  <br className="md:block hidden" /> Trung Oai, Tiên Dương, Đông
+                  Anh, Hà Nội
+                </p>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-[1fr_1fr] gap-5 mt-7">
+                <div className="rounded-lg backdrop-blur-sm bg-white/30 p-5 flex items-center">
+                  <div className="grid grid-flow-col gap-5 text-center w-full">
+                    <div className="flex flex-col justify-center items-center">
+                      <span className="font-mono text-3xl">
+                        <span>{days}</span>
+                      </span>
+                      ngày
+                    </div>
+                    <div className="flex flex-col justify-center items-center">
+                      <span className="font-mono text-3xl">
+                        <span>{hours}</span>
+                      </span>
+                      giờ
+                    </div>
+                    <div className="flex flex-col justify-center items-center">
+                      <span className="font-mono text-3xl">
+                        <span>{minutes}</span>
+                      </span>
+                      phút
+                    </div>
+                    <div className="flex flex-col justify-center items-center">
+                      <span className=" font-mono text-3xl">
+                        <span>{seconds}</span>
+                      </span>
+                      giây
+                    </div>
+                  </div>
+                </div>
+                <a
+                  className="hero relative rounded-lg min-h-[100px] w-full md:max-w-[200px] cursor-pointer text-white"
+                  target="_blank"
+                  href="https://maps.app.goo.gl/tyHsdoWQuxgtWw2K8"
+                >
+                  <Image
+                    src="/images/nam_map.png"
+                    alt=""
+                    className="object-cover object-center pointer-events-none z-10 rounded-lg"
+                    fill
+                    loading="lazy"
+                    sizes="100vw"
+                  />
+                  <div className="hero-overlay bg-black/10 rounded-lg z-10"></div>
+                  <div className="flex gap-4 justify-between w-full p-5 z-50">
+                    <span className="text-lg">Chỉ đường</span>
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      version="1.1"
+                      x={0}
+                      y={0}
+                      viewBox="0 0 448.011 448.011"
+                      width={25}
+                    >
+                      <g>
+                        <path
+                          d="m438.731 209.463-416-192c-6.624-3.008-14.528-1.216-19.136 4.48a15.911 15.911 0 0 0-.384 19.648l136.8 182.4-136.8 182.4c-4.416 5.856-4.256 13.984.352 19.648 3.104 3.872 7.744 5.952 12.448 5.952 2.272 0 4.544-.48 6.688-1.472l416-192c5.696-2.624 9.312-8.288 9.312-14.528s-3.616-11.904-9.28-14.528z"
+                          fill="currentColor"
+                        />
+                      </g>
+                    </svg>
+                  </div>
+                </a>
+                <div className="mt-1">
+                  <a
+                    className="btn glass text-white hover:text-zinc-700"
+                    target="_blank"
+                    href="https://docs.google.com/spreadsheets/d/1gKVJkGgfTTp9__aSSSpPfKoMBq1LSOgWYgHpyztilXc/edit#gid=0"
+                  >
+                    Đăng ký đi xe về nhà trai
+                  </a>
                 </div>
               </div>
             </div>

@@ -3,7 +3,6 @@ import AlbumImage from "@/components/album";
 import Audio from "@/components/audio";
 import Banner from "@/components/banner";
 import Brides from "@/components/brides";
-import Footer from "@/components/footer";
 import Groom from "@/components/groom";
 import HappyWedding from "@/components/happy-wedding";
 import HeartFall from "@/components/heart-fall";
@@ -26,7 +25,6 @@ export default function Home() {
         <HappyWedding />
         <ThankYou />
         <Audio />
-        <Footer />
         <Toast />
         <ScrollToTop />
       </div>

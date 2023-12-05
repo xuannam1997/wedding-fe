@@ -141,10 +141,10 @@ const Brides = () => {
           </svg>
         </div>
       </div>
-      <div className="mt-10">
+      <div className="mt-10 text-white">
         <div className="container hero relative m-auto">
           <Image
-            src="/images/bg-3.webp"
+            src="/images/bg-3.jpg"
             alt=""
             className="object-cover object-center pointer-events-none z-1 rounded-lg"
             fill
@@ -358,7 +358,7 @@ const Brides = () => {
                 </a>
                 <div className="mt-1">
                   <a
-                    className="btn glass"
+                    className="btn glass !text-white"
                     target="_blank"
                     href="https://docs.google.com/spreadsheets/d/1-22Z7vi9aXaf_AV5_sxahj-WEQZslp7F_dz2MghSwh4/edit#gid=0"
                   >
