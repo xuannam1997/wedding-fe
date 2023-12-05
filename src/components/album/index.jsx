@@ -25,7 +25,9 @@ const AlbumImage = () => {
             <h2 className="text-2xl md:text-[40px] uppercase tracking-widest text-center">
               Album ảnh cưới
             </h2>
-
+            <p className="md:text-lg text-zinc-500 text-center">
+              Love is like the wind, you can’t see it but you can feel it
+            </p>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 234.1 91.43"
