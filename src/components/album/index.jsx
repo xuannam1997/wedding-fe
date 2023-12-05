@@ -153,7 +153,7 @@ const AlbumImage = () => {
             <div className="columns-1 md:columns-2 lg:columns-3 gap-6 hidden md:block">
               <div className="mt-0">
                 <Image
-                  src="/images/image_1.jpg"
+                  src="/images/image_12.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg"
                   width={500}
@@ -373,7 +373,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_12.jpg"
+                  src="/images/image_1.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg"
                   width={500}
@@ -420,7 +420,7 @@ const AlbumImage = () => {
               <div className="stack">
                 <div className="card">
                   <Image
-                    src="/images/image_1.jpg"
+                    src="/images/image_12.jpg"
                     alt=""
                     className="h-auto w-full rounded-lg"
                     width={500}
@@ -701,7 +701,7 @@ const AlbumImage = () => {
               </div>
               <div className="mt-6">
                 <Image
-                  src="/images/image_12.jpg"
+                  src="/images/image_1.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg text-transparent"
                   width={500}

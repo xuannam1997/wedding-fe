@@ -234,7 +234,7 @@ const Groom = () => {
                   <a
                     className="btn glass text-white hover:text-zinc-700"
                     target="_blank"
-                    href="https://docs.google.com/spreadsheets/d/1DtLMsBIsjA_OXt6vkzXIHaok1k2gNBD4hZHblAa4Mmw/edit?usp=sharing"
+                    href="https://docs.google.com/spreadsheets/d/1gKVJkGgfTTp9__aSSSpPfKoMBq1LSOgWYgHpyztilXc/edit#gid=0"
                   >
                     Đăng ký đi xe về nhà trai
                   </a>

@@ -360,7 +360,7 @@ const Brides = () => {
                   <a
                     className="btn glass"
                     target="_blank"
-                    href="https://docs.google.com/spreadsheets/d/15qLvB5bTeahp9idHLAwj3H2tMwzOAKztzH56wkWjDbA/edit?fbclid=IwAR1lwwrGU6QkoU67srsbCjNAMTbvvMuJHV5kJRKnIiCL9ah429q1xouVLDw#gid=923643296"
+                    href="https://docs.google.com/spreadsheets/d/1-22Z7vi9aXaf_AV5_sxahj-WEQZslp7F_dz2MghSwh4/edit#gid=0"
                   >
                     Đăng ký đi xe về nhà gái
                   </a>
