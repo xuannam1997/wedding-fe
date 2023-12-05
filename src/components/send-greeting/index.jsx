@@ -31,7 +31,7 @@ const SendGreetings = () => {
         message: message,
       })
       .then((result) => {
-        setGreetings([...greetings, result.data.greetings]);
+        setGreetings([result.data.greetings, ...greetings]);
         setLoading(false);
         toast.success("Gửi thành công ", { duration: 2000 });
       })
@@ -58,7 +58,9 @@ const SendGreetings = () => {
     });
 
     instance.get("/greetings").then((result) => {
-      setGreetings(result.data.greetings ?? []);
+      setGreetings(
+        result.data.greetings ? result.data.greetings.reverse() : []
+      );
     });
   };
 
