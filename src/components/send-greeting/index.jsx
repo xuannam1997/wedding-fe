@@ -119,7 +119,7 @@ const SendGreetings = () => {
                 Gửi lời chúc
               </h2>
               <p className="md:text-lg text-zinc-500 text-center mt-2">
-                Hãy gửi những lời chúc tới Xuân Nam & Minh Thành ❤️
+                Hãy gửi lời chúc tới Xuân Nam & Minh Thành ❤️
               </p>
             </div>
             <div className="flex flex-col gap-5">

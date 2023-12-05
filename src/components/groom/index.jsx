@@ -282,19 +282,21 @@ const Groom = () => {
               </div>
             </div>
             <div>
-              <h3 className="text-2xl md:text-[32px] uppercase tracking-wider font-semibold">
-                Tiệc cưới tại gia đình&nbsp;
-                <br className="md:hidden" />
-                nhà trai
-              </h3>
-              <div className="mt-7 text-xl leading-9">
-                <p>Được tổ chức vào lúc 10 giờ 45 phút</p>
-                <p>Thứ 7 ngày 16 / 12 / 2023</p>
-                <p>
-                  Địa chỉ: Số 8, Ngõ 2, Ngách 1, Đường Cời Lác, Xóm Cời,
-                  <br className="md:block hidden" /> Trung Oai, Tiên Dương, Đông
-                  Anh, Hà Nội
-                </p>
+              <div className="rounded-lg backdrop-blur-sm bg-white/30 p-5 flex flex-col items-center">
+                <h3 className="text-2xl md:text-[32px] uppercase tracking-wider font-semibold">
+                  Tiệc cưới tại gia đình&nbsp;
+                  <br className="md:hidden" />
+                  nhà trai
+                </h3>
+                <div className="mt-7 text-xl leading-9">
+                  <p>Được tổ chức vào lúc 10 giờ 45 phút</p>
+                  <p>Thứ 7 ngày 16 / 12 / 2023</p>
+                  <p>
+                    Địa chỉ: Số 8, Ngõ 2, Ngách 1, Đường Cời Lác, Xóm Cời,
+                    <br className="md:block hidden" /> Trung Oai, Tiên Dương,
+                    Đông Anh, Hà Nội
+                  </p>
+                </div>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-[1fr_1fr] gap-5 mt-7">
                 <div className="rounded-lg backdrop-blur-sm bg-white/30 p-5 flex items-center">

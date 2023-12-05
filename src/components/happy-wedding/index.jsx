@@ -13,9 +13,9 @@ const HappyWedding = () => {
             <h2 className="text-2xl md:text-4xl uppercase tracking-widest lg:text-left text-center">
               Mừng cưới
             </h2>
-            <p className="md:text-lg lg:text-left text-center">
+            {/* <p className="md:text-lg lg:text-left text-center">
               Mừng cưới cho gia đình nhỏ
-            </p>
+            </p> */}
           </div>
           <div className=" flex flex-col justify-center lg:p-0 p-4">
             <Image
