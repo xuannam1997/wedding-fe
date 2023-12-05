@@ -289,7 +289,7 @@ const Groom = () => {
               </h3>
               <div className="mt-7 text-xl leading-9">
                 <p>Được tổ chức vào lúc 10 giờ 45 phút</p>
-                <p>Thứ 7 ngày 17 / 12 / 2023</p>
+                <p>Thứ 7 ngày 16 / 12 / 2023</p>
                 <p>
                   Địa chỉ: Số 8, Ngõ 2, Ngách 1, Đường Cời Lác, Xóm Cời,
                   <br className="md:block hidden" /> Trung Oai, Tiên Dương, Đông
