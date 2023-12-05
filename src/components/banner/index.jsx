@@ -25,7 +25,7 @@ const Banner = () => {
           <div className="container m-auto flex items-center justify-center flex-col">
             <div className="relative">
               <h2 className="font-hello-honey text-white text-5xl md:text-[90px] lg:text-[120px] md:leading-[90px] lg:leading-[130px]">
-                We're Getting Married
+                We&apos;re Getting Married
               </h2>
             </div>
             <p className="font_sacramento text-white text-4xl md:text-[80px] flex items-center gap-2 md:gap-3 mt-10">

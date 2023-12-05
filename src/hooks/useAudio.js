@@ -25,7 +25,7 @@ const useAudio = (url) => {
         // setPlaying(false);
       });
     };
-  }, []);
+  }, [audio]);
 
   return [playing, toggle];
 };
