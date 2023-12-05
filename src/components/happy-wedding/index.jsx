@@ -58,7 +58,7 @@ const HappyWedding = () => {
           </div>
           <div className="lg:ml-5  flex flex-col justify-center lg:p-0 p-4">
             <Image
-              src="/images/nam_qr.jpg"
+              src="/images/thanh_qr.jpg"
               alt=""
               className="h-full w-full rounded-xl"
               width={250}
