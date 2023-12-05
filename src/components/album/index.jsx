@@ -25,10 +25,7 @@ const AlbumImage = () => {
             <h2 className="text-2xl md:text-[40px] uppercase tracking-widest text-center">
               Album ảnh cưới
             </h2>
-            <p className="md:text-lg text-zinc-500 text-center">
-              You are fall in love with someone when you can not put into words
-              how they make you feel
-            </p>
+
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 234.1 91.43"
