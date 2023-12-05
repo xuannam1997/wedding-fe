@@ -283,10 +283,8 @@ const Brides = () => {
             </div>
             <div>
               <div className="rounded-lg backdrop-blur-sm bg-white/30 p-5 flex flex-col items-center">
-                <h3 className="text-2xl md:text-[32px] uppercase tracking-wider font-semibold">
-                  Tiệc cưới tại gia đình&nbsp;
-                  <br className="md:hidden" />
-                  nhà gái
+                <h3 className="text-2xl md:text-[32px] uppercase tracking-wider font-semibold text-center">
+                  Tiệc cưới tại gia đình nhà gái
                 </h3>
                 <div className="mt-7 text-xl leading-9">
                   <p>Được tổ chức vào lúc 17 giờ 00 phút</p>
