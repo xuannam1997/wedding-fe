@@ -9,6 +9,7 @@ const ThankYou = () => {
         alt=""
         className="object-cover object-center pointer-events-none z-10"
         fill
+        priority
       />
       <div className="container m-auto flex flex-col relative z-50 items-center px-5 py-20">
         <h3 className="text-5xl md:text-[100px] text-white font-black text-center drop-shadow"></h3>

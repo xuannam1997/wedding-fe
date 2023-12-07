@@ -16,9 +16,10 @@ const Banner = () => {
       >
         <Image
           src="/images/JULI0308.jpg"
-          alt="Maci"
+          alt=""
           className="object-cover object-top pointer-events-none z-10"
           fill
+          priority
         />
         <div className="w-full h-full flex items-center bg-black/10 relative z-50">
           <div className="container m-auto flex items-center justify-center flex-col">
